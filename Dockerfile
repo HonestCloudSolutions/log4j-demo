@@ -1,4 +1,5 @@
-FROM debian:unstable-20240311
+FROM scorpas/spooky:latest 
+#debian:unstable-20240311
 #inginx:1.7.1
 
 # Update the package repository
